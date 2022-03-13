@@ -1,6 +1,6 @@
-myhttp
+# myhttp
 
-* Clone and Compile
+## Clone and Compile
 
 ```bash
 git clone git@github.com:maksadbek/myhttp.git
@@ -8,7 +8,7 @@ cd myhttp
 go build .
 ```
 
-* Run
+## Run
 
 ```bash
 ./myhttp http://www.adjust.com http://google.com
